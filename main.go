@@ -7,7 +7,7 @@ import (
 	"path/filepath"
 	"strings"
 
-	"github.com/docker/go-plugins-helpers/volume"
+	"github.com/DamianSzymanski/go-plugins-helpers/volume"
 )
 
 const glusterfsID = "_glusterfs"

@@ -9,8 +9,8 @@ import (
 	"strings"
 	"sync"
 
-	"github.com/calavera/docker-volume-glusterfs/rest"
-	"github.com/docker/go-plugins-helpers/volume"
+	"github.com/DamianSzymanski/docker-volume-glusterfs/rest"
+	"github.com/DamianSzymanski/go-plugins-helpers/volume"
 )
 
 type volumeName struct {
